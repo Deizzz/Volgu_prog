@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461168528 source:c:\users\Владимир\desktop\volgu_lab_c++\laba_1\main.cpp
+	<iostream>
+	<string>
+	<clocale>
+
